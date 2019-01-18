@@ -1,2 +1,2 @@
 print("rtdlc")
-print("hgwur")
+print("lipwc")
