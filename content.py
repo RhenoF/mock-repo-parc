@@ -1,6 +1,2 @@
 print("rtdlc")
-print("kbwna")
-print("tlfou")
-print("pjwuu")
-print("mfrgt")
-print("sqofp")
+print("yorre")
