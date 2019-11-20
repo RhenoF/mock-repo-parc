@@ -1,1 +1,1 @@
-console.log("csapa")
+console.log("strtu")
