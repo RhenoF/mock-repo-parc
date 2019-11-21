@@ -1,1 +1,1 @@
-console.log("strtu")
+console.log("ouyvi")
