@@ -1,1 +1,1 @@
-console.log("aoryb")
+console.log("pnyla")
