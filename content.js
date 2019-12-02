@@ -1,1 +1,1 @@
-console.log("pnyla")
+console.log("dibff")
